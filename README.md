@@ -6,9 +6,9 @@
 
 <br/>
 
-[![Version](https://img.shields.io/badge/Версия-1.0.0-FF3B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Version](https://img.shields.io/badge/Версия-Beta-b04-FF3B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Платформа-Windows-0B0C0E?style=for-the-badge&logo=windows&logoColor=FF3B30)](https://github.com/)
-[![Python](https://img.shields.io/badge/Стек-Python_%7C_PyQt6-AD1457?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Стек-Python_%7C_WebView-AD1457?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Статус-Активный-30D158?style=for-the-badge)](https://github.com/)
 
 <br/>
