@@ -28,7 +28,7 @@
 ### 🎮 Главный экран
 *Быстрый запуск, маркировка версий (R — релизы, S — снапшоты, B — бета, A — альфа) и поле поиска.*
 
-<img src="_preview/main.png" alt="Главный экран ReLauncher" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
+<img src="main/_preview/main.png" alt="Главный экран ReLauncher" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
 
 <br/><br/>
 
@@ -38,14 +38,14 @@
 * *Полная изоляция:* модпаки хранятся в `.relauncher\versions\ваши_модпаки`, каждый экземпляр имеет свою изолированную папку `mods` и конфиги.
 * *Поддержка загрузчиков:* Fabric, Forge, NeoForge, Quilt.
 
-<img src="_preview/modpacks.png" alt="Модпаки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
+<img src="main/_preview/modpacks.png" alt="Модпаки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
 
 <br/><br/>
 
 ### ⚙️ Тонкие настройки клиента
 *Широкие возможности персонализации игрового процесса и самого лаунчера.*
 
-<img src="_preview/settings.png" alt="Настройки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
+<img src="main/_preview/settings.png" alt="Настройки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
 
 </div>
 
