@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Version](https://img.shields.io/badge/Версия-Beta-b04-FF3B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Version](https://img.shields.io/badge/Версия-b04-FF3B30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Platform](https://img.shields.io/badge/Платформа-Windows-0B0C0E?style=for-the-badge&logo=windows&logoColor=FF3B30)](https://github.com/)
 [![Python](https://img.shields.io/badge/Стек-Python_%7C_WebView-AD1457?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Статус-Активный-30D158?style=for-the-badge)](https://github.com/)
@@ -28,7 +28,7 @@
 ### 🎮 Главный экран
 *Быстрый запуск, маркировка версий (R — релизы, S — снапшоты, B — бета, A — альфа) и поле поиска.*
 
-<img src="main/_preview/main.png" alt="Главный экран ReLauncher" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
+<img src="/_previews/main.png" alt="Главный экран ReLauncher" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
 
 <br/><br/>
 
@@ -38,14 +38,14 @@
 * *Полная изоляция:* модпаки хранятся в `.relauncher\versions\ваши_модпаки`, каждый экземпляр имеет свою изолированную папку `mods` и конфиги.
 * *Поддержка загрузчиков:* Fabric, Forge, NeoForge, Quilt.
 
-<img src="main/_preview/modpacks.png" alt="Модпаки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
+<img src="_previews/modpacks.png" alt="Модпаки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
 
 <br/><br/>
 
 ### ⚙️ Тонкие настройки клиента
 *Широкие возможности персонализации игрового процесса и самого лаунчера.*
 
-<img src="main/_preview/settings.png" alt="Настройки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
+<img src="_previews/settings.png" alt="Настройки" width="85%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0,0,0,0.7);" />
 
 </div>
 
