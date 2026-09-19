@@ -13,7 +13,7 @@
 
 <br/>
 
-[ Скачать установщик (Releases) ](https://github.com/) • [ Сообщить о баге ](https://github.com/issues) • [ Настройки ](#️-параметры-и-настройки) • [ Скины ](#-система-скинов)
+[ Скачать установщик (Releases) ](https://github.com/AshoTTMan/ReLauncher/releases) • [ Сообщить о баге ](https://github.com/issues) • [ Настройки ](#️-параметры-и-настройки) • [ Скины ](#-система-скинов)
 
 </div>
 
